@@ -7,3 +7,4 @@ import com.eduardofrohlich.course.entities.User;
 public interface UserRepository extends JpaRepository<User, Long>{
 
 }
+	
